@@ -15,6 +15,12 @@
   "author": "Sertac Ozercan",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.4.4"
+    "electron": "^2.0.5"
+  },
+  "dependencies": {
+    "debug": "^3.1.0",
+    "electron-clipboard-extended": "^1.1.1",
+    "node-fetch": "^2.1.2",
+    "node-notifier": "^5.2.1"
   }
 }
